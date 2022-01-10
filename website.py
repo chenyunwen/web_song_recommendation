@@ -1,11 +1,11 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
-import jieba.analyse
-import jieba
-import codecs
-import pandas as pd
-import re
+# import matplotlib.pyplot as plt
+# import numpy as np
+# import jieba.analyse
+# import jieba
+# import codecs
+# import pandas as pd
+# import re
 
 from similar_song_predict import all_predict
 from tfidf_predict import categorize
