@@ -7,17 +7,17 @@ Original file is located at
     https://colab.research.google.com/drive/1yNTSeYq0_Ztpm3enc2o3XSG5jc8m1qDb
 """
 
-from sklearn.datasets import load_files
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+# from sklearn.datasets import load_files
+# from sklearn.feature_extraction.text import TfidfVectorizer
+# from sklearn.linear_model import LogisticRegression
 import os
 from gensim import corpora, models, similarities
 import joblib
 import pickle
-import numpy as np
+# import numpy as np
 import jieba.analyse
 import jieba
-import codecs
+# import codecs
 import pandas as pd
 import re
 
