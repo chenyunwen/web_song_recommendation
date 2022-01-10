@@ -5,7 +5,5 @@ matplotlib
 plotly
 jieba
 gensim
-re
-os
 joblib
 pickle
