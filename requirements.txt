@@ -6,4 +6,3 @@ plotly
 jieba
 gensim
 joblib
-pickle
