@@ -6,3 +6,4 @@ plotly
 jieba
 gensim
 joblib
+sklearn

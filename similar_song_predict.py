@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1CcovQdaMlwaEXyYv8fz4G50BtZspG-73
 """
 
-# import matplotlib.pyplot as plt
-# import numpy as np
+import matplotlib.pyplot as plt
+import numpy as np
 import jieba.analyse
 import jieba
-# import codecs
+import codecs
 import pandas as pd
 import re
 import os

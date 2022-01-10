@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1S2f7YCMwFQETdS-8se8FkLibtM63lxRz
 """
 
-# from sklearn.datasets import load_files
-# from sklearn.feature_extraction.text import TfidfVectorizer
-# from sklearn.linear_model import LogisticRegression
-# from matplotlib import pyplot as plt
-# import pandas as pd
-# import numpy as np
+from sklearn.datasets import load_files
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from matplotlib import pyplot as plt
+import pandas as pd
+import numpy as np
 import joblib
 import re
 import jieba
